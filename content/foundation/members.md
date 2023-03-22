@@ -72,7 +72,6 @@ There is a complete summary of the [member LDAP group](http://home.apache.org/co
 | anshum | Anshum Gupta | [Lucene](http://lucene.apache.org/), [Solr](http://solr.apache.org/) |
 | antelder | Ant Elder |
 | antonio | [Antonio Gallardo Rivera](http://home.apache.org/~antonio/) | [Cocoon](http://cocoon.apache.org/) , [Forrest](http://forrest.apache.org/) , [Lenya](http://lenya.apache.org/)|
-apache.org/) |
 | arkurth | Andy Kurth | [VCL](http://vcl.apache.org/) |
 | arp | Arpit Agarwal |
 | arreyder | [Christopher R. Rhodes](http://arreyder.com) |
@@ -83,6 +82,7 @@ apache.org/) |
 | ate | [Ate Douma](http://home.apache.org/~ate/) | [Airavata](https://airavata.apache.org/), [AsterixDB](https://asterixdb.apache.org/), [Commons](https://commons.apache.org/), [Incubator](https://incubator.apache.org/), [NetBeans](https://netbeans.apache.org/), [Portals](https://portals.apache.org/), [Streams](https://streams.apache.org/), [Wicket](https://wicket.apache.org/) |
 | awm | Aram W. Mirzadeh |  [httpd](http://httpd.apache.org/)|
 | ay | Akitoshi Yoshida |
+| ayushsaxena | Ayush Saxena | [Hadoop](https://hadoop.apache.org), [Hive](http://hive.apache.org), [Ozone](http://ozone.apache.org/) |
 | azeez | Mohamed Afkham Azeez |
 | bayard | Henri Yandell |
 | bdelacretaz | [Bertrand Delacrétaz](http://www.codeconsult.ch/) | [Cocoon](http://cocoon.apache.org/) , [FOP](http://xml.apache.org/fop/)|
@@ -154,7 +154,6 @@ apache.org/) |
 | djencks | David Jencks |
 | djkevincr | Kevin Ratnasekera | [Gora](http://gora.apache.org), [Incubator](http://incubator.apache.org/) | 
 | dkulp | [J. Daniel Kulp](http://www.dankulp.com/blog) | [CXF](http://cxf.apache.org/) ; [Maven](http://maven.apache.org/) ; [ServiceMix](http://servicemix.apache.org)|
-| dlr | Daniel L. Rall | [Turbine](http://java.apache.org/turbine/) ; [Velocity](http://jakarta.apache.org/velocity/) ; Jakarta Commons ; XML-RPC ; Infrastructure|
 | dmeikle | David Meikle | [Tika](http://tika.apache.org) |
 | dpsenner | Dominik Psenner | [Logging](http://logging.apache.org/) |
 | drew | Andrew L. (Drew) Farris | [accumulo](http://accumulo.apache.org), [mahout](http://mahout.apache.org)|
@@ -285,6 +284,7 @@ apache.org/) |
 | lektran | Scott Gray | [OFBiz](http://ofbiz.apache.org)  |
 | lewismc | [Lewis John McGibbney](http://home.apache.org/~lewismc) | [Nutch](http://nutch.apache.org), [Gora](http://gora.apache.org), [Any23](http://any23.apache.org), [Tika](http://tika.apache.org), [OODT](http://oodt.apache.org), [Open Climate Workbench](http://climate.apache.org), [Usergrid](http://usergrid.apache.org), [Joshua](http://joshua.apache.org)|
 | lgo | Lieven Govaerts |
+| lhotari | Lari Hotari | [Pulsar](https://pulsar.apache.org)|
 | lresende | Luciano Resende |
 | luc | Luc Maisonobe | [commons](http://commons.apache.org/)|
 | luke1410 | [Stefan Hett](http://www.luke1410.de/) | [Subversion](https://subversion.apache.org/) ; [APR](https://apr.apache.org/) |
@@ -334,7 +334,6 @@ apache.org/) |
 | noel | Noel J. Bergman | [ApacheCon](http://www.apachecon.com/) , [incubator](http://incubator.apache.org/) , infrastructure , [James](http://james.apache.org/)|
 | norman | Norman Maurer |
 | nslater | [Naomi Slater](http://home.apache.org/~nslater/) | [CouchDB](http://couchdb.apache.org/), [ComDev](https://community.apache.org/), [Incubator](http://incubator.apache.org/), [CloudStack](http://cloudstack.apache.org/), [Stratos](http://stratos.apache.org/), [MetaModel](https://metamodel.apache.org/)|
-| nwellnhof | Nick Wellnhofer | [lucy](http://lucy.apache.org)|
 | oching | Maria Odea B. Ching |
 | oflebbe | Olaf Flebbe |[Bigtop](http://bigtop.apache.org)|
 | oheger | Oliver Heger |
@@ -356,6 +355,7 @@ apache.org/) |
 | pottlinger | Philipp Ottlinger | [Creadur](https://creadur.apache.org) |
 | pquerna | [Paul Querna](http://paul.querna.org/) |
 | proyal | [Peter Royal](http://fotap.org/~osi) |
+| priyasharma | Priya Sharma | [OFBiz](http://ofbiz.apache.org) ; [ComDev](http://community.apache.org)
 | psteitz | Phil Steitz | [Jakarta](http://jakarta.apache.org) ; [Directory](http://directory.apache.org)|
 | ptgoetz | P. Taylor Goetz | [Storm](http://storm.apache.org) |
 | purplecabbage | Jesse MacFadyen | [Cordova](http://cordova.apache.org) |
@@ -387,6 +387,7 @@ apache.org/) |
 | rubys | [Sam Ruby](http://www.intertwingly.net/blog/) |  [Ant](http://ant.apache.org/) ; [Jakarta](http://jakarta.apache.org/) ; [PHP](http://www.php.net/) ; [XML](http://xml.apache.org)|
 | rvesse | Rob Vesse | [Jena](http://jena.apache.org), [Incubator](http://incubator.apache.org) |
 | rvs | Roman Shaposhnik | [Bigtop](http://bigtop.apache.org), [Celix](http://celix.apache.org), [ComDev](http://community.apache.org), [Geode](http://geode.apache.org), [Giraph](http://giraph.apache.org), [Groovy](http://groovy.apache.org), [Hadoop](http://hadoop.apache.org), [Ignite](http://ignite.apache.org), [Incubator](http://incubator.apache.org), [Zest](http://zest.apache.org) |
+| rzo1 | Richard Zowalla |
 | rxin | [Reynold Xin](http://rxin.org) | [Spark](http://spark.apache.org) |
 | sanders | [Scott Sanders](http://dotnot.org/blog/) | [Jakarta](http://jakarta.apache.org/) ; [commons](http://commons.apache.org/) ; [Gump](http://gump.apache.org/) ; colo-keys|
 | sarowe | Steve Rowe | [Lucene](http://lucene.apache.org/) : [Java](http://lucene.apache.org/java/) ; [Solr](http://lucene.apache.org/solr/)|
@@ -425,6 +426,7 @@ apache.org/) |
 | stevenn | Steven Noels | [Cocoon](http://cocoon.apache.org/) ; [Forrest](http://xml.apache.org/forrest/)|
 | striker | Sander Striker | [APR](http://apr.apache.org/) ; [commons](http://commons.apache.org/) ; [httpd](http://httpd.apache.org/) ; [incubator](http://incubator.apache.org/) ; infrastructure|
 | struberg | Mark Struberg |
+| sunilg | Sunil Govindan | [Hadoop](https://hadoop.apache.org), [Submarine](https://submarine.apache.org), [YuniKorn](https://yunikorn.apache.org), [Sedona](https://sedona.apache.org) |
 | supun | Supun Kamburugamuva |
 | svogel | Sven Vogel | [CloudStack](http://cloudstack.apache.org) |
 | sylvain | [Sylvain Wallez](http://home.apache.org/~sylvain) | [Cocoon](http://cocoon.apache.org/) ; [Avalon](http://avalon.apache.org/)|
@@ -465,11 +467,13 @@ apache.org/) |
 | weber | Volker Weber | [MyFaces](http://myfaces.apache.org/)|
 | weimer | [Markus Weimer](http://www.markusweimer.com) | [REEF](https://reef.apache.org/) | 
 | wenming | [Ming Wen](mailto:wenming@apache.org) | [APISIX](https://apisix.apache.org) |
-| wwei | [Weiwei Yang](https://yangwwei.github.io) | [Hadoop](https://hadoop.apache.org), [Ozone](https://ozone.apache.org), [YuniKorn](https://yunikorn.apache.org) |
+| wilfreds | Wilfred Spiegelenburg | [Hadoop](https://hadoop.apache.org), [YuniKorn](https://yunikorn.apache.org) |
 | woonsan | [Woonsan Ko](http://woonsanko.blogspot.com/) | [Portals](https://portals.apache.org/) , [Commons](https://commons.apache.org/) , [FreeMarker](https://freemarker.apache.org/)|
 | wrowe | William A. Rowe, Jr. | [httpd](http://httpd.apache.org/) ; [APR](http://apr.apache.org/) ; [httpd-docs](http://httpd.apache.org/docs-project/)|
 | wsanchez | [Wilfredo Sánchez](http://www.mit.edu/people/wsanchez/) |  [httpd](http://httpd.apache.org/) ; [APR](http://apr.apache.org/)|
 | wsmoak | [Wendy Smoak](http://www.wendysmoak.com) |  [Struts](http://struts.apache.org/) ; [MyFaces](http://myfaces.apache.org/) ; [Shale](http://shale.apache.org/)|
+| wwei | [Weiwei Yang](https://yangwwei.github.io) | [Hadoop](https://hadoop.apache.org), [Ozone](https://ozone.apache.org), [YuniKorn](https://yunikorn.apache.org) |
+| xinwang | [Xin Wang](https://people.apache.org/~xinwang/) | [Storm](https://storm.apache.org/) , [RocketMQ](https://rocketmq.apache.org/) , [IoTDB](https://iotdb.apache.org/) , [StreamPipes](https://streampipes.apache.org/)|
 | xuefu | Xuefu Zhang | [Hive](http://hive.apache.org) ; [Pig](http://pig.apache.org) |
 | yegor | Yegor Kozlov |
 | ylavic | Yann Ylavic | [httpd](http://httpd.apache.org/) ; [APR](http://apr.apache.org/)|
@@ -539,6 +543,7 @@ apache.org/) |
 | dch | [Dave Cottlehuber](mailto:dch@apache.org) | [CouchDB](http://couchdb.apache.org) |
 | dgaudet | [Dean Gaudet](http://arctic.org/~dean/) |
 | djd | Daniel Debrunner |
+| dlr | Daniel L. Rall | [Turbine](http://java.apache.org/turbine/) ; [Velocity](http://jakarta.apache.org/velocity/) ; Jakarta Commons ; XML-RPC ; Infrastructure|
 | dos | [Daryl C. W. O'Shea](http://daryl.dostech.ca/) | [SpamAssassin](http://spamassassin.apache.org/)|
 | dougm | Doug MacEachern |
 | dreid | David Reid | [httpd](http://httpd.apache.org/) ; [APR](http://apr.apache.org/)|
@@ -631,6 +636,7 @@ apache.org/) |
 | nicolaken | Nicola Ken Barozzi |
 | nigel | Nigel Daley |
 | nlehuen | Nicolas Lehuen |
+| nwellnhof | Nick Wellnhofer | [lucy](http://lucy.apache.org)|
 | orcmid | [Dennis E. Hamilton](http://nfoWorks.org) | [OpenOffice](http://openoffice.apache.org/) |
 | otis | Otis Gospodnetic |
 | pamarcelot | Pierre-Arnaud Marcelot | [Directory](http://directory.apache.org/)|
